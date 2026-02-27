@@ -13,6 +13,7 @@ from telegram import Update
 from telegram.ext import CommandHandler, ContextTypes
 from bot.database import set_user_status, delete_user
 from bot.config import GROUP_ID
+from bot.database import get_user_status
 
 
 async def reset_user(update: Update, context: ContextTypes.DEFAULT_TYPE):
