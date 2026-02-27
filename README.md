@@ -1,7 +1,7 @@
 # SuperteamMYintro-bot
 
 
-Superteam MY – Intro Gatekeeper Bot
+Superteam MY : Intro Gatekeeper Bot
 
 Production-ready Telegram onboarding bot
 
